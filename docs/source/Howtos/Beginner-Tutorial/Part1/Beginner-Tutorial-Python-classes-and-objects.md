@@ -120,7 +120,7 @@ Now that we know about imports, let look at a real Evennia module and try to und
 Open `mygame/typeclasses/scripts.py` in your text editor of choice.
 
 ```python
-# mygame/typeclasses/script.py
+# mygame/typeclasses/scripts.py
 """
 module docstring
 """
